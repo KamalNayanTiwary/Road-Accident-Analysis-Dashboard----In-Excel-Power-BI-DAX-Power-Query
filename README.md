@@ -8,8 +8,8 @@ The dashboard helps stakeholders monitor KPIs, track accident severity trends, a
 ---
 
 📊 **Live Dashboard**  
-I created an interactive Power BI dashboard to analyze and visualize **road accident insights**.  
-🔗 You can explore it live here: *View Dashboard*  
+I created an interactive Power BI dashboard to analyze and visualize **Road Accident Insights**.  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/c3525e07-aded-4651-a5ae-57a927489d30/b625b47bbda6306e0ca4?experience=power-bi)
 
 ---
 
