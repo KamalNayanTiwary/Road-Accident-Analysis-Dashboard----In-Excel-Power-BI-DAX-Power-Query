@@ -114,4 +114,4 @@ Road accidents remain one of the leading causes of injuries and fatalities every
 **Data Analyst**
 
 📧 Email: **kamalnayantiwary73@gmail.com**  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)   
