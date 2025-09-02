@@ -56,7 +56,7 @@ Road accidents remain one of the leading causes of injuries and fatalities every
 ---
 
 📊 **Dashboard**  
-![Overview](https://github.com/KamalNayanTiwary/Market-Pulse-Sales-Analysis-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)  
+![Overview](https://github.com/KamalNayanTiwary/Road-Accident-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 - **Top-Level KPIs**:  
   - Total CY Casualties: **195.7K** (-11.9% YoY)  
