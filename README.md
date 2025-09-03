@@ -13,7 +13,7 @@ I created an interactive Power BI dashboard to analyze and visualize **Road Acci
 
 ---
 
-📊 **Dashboard**  
+📊 **Dashboard Overview**  
 ![Overview](https://github.com/KamalNayanTiwary/Road-Accident-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 - **Top-Level KPIs**:  
