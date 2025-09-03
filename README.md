@@ -13,6 +13,40 @@ I created an interactive Power BI dashboard to analyze and visualize **Road Acci
 
 ---
 
+📊 **Dashboard**  
+![Overview](https://github.com/KamalNayanTiwary/Road-Accident-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
+
+- **Top-Level KPIs**:  
+  - Total CY Casualties: **195.7K** (-11.9% YoY)  
+  - Total CY Accidents: **144.4K** (-11.7% YoY)  
+  - Fatal Casualties: **2.9K** (-33.3% YoY)  
+  - Serious Casualties: **27K** (-16.2% YoY)  
+  - Slight Casualties: **165.8K** (-10.6% YoY)  
+
+- **Vehicle-Type Impact**:  
+  - Cars: **155.8K casualties** (highest risk)  
+  - Vans: **15.9K casualties**  
+  - Bikes: **15.6K casualties**  
+  - Buses & Agricultural vehicles contribute smaller shares.  
+
+- **Road-Type Insights**:  
+  - Single Carriageway: **145K casualties** (highest)  
+  - Dual Carriageway: **32K casualties**  
+  - Roundabouts & others: lower but significant.  
+
+- **Geographic Distribution**:  
+  - Urban areas: **61.95%**  
+  - Rural areas: **38.05%**  
+
+- **Time Factor**:  
+  - Daytime: **73.84% casualties**  
+  - Nighttime: **26.16% casualties**  
+
+- **Hotspot Mapping**:  
+  - Concentrated accidents across **UK regions**, clearly highlighting high-risk zones.  
+
+---
+
 🚨 **Business Problem**  
 Road accidents remain one of the leading causes of injuries and fatalities every year. Without proper analysis, it becomes difficult to:  
 
@@ -52,40 +86,6 @@ Road accidents remain one of the leading causes of injuries and fatalities every
   - **Bar Charts** – Casualties by Vehicle Type & Road Type  
   - **Map Visualization** – Geographic hotspots of accidents  
 - **Dashboard Design**: Built with a professional dark-themed layout and added filters for **Road Surface** and **Weather Conditions**.  
-
----
-
-📊 **Dashboard**  
-![Overview](https://github.com/KamalNayanTiwary/Road-Accident-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)  
-
-- **Top-Level KPIs**:  
-  - Total CY Casualties: **195.7K** (-11.9% YoY)  
-  - Total CY Accidents: **144.4K** (-11.7% YoY)  
-  - Fatal Casualties: **2.9K** (-33.3% YoY)  
-  - Serious Casualties: **27K** (-16.2% YoY)  
-  - Slight Casualties: **165.8K** (-10.6% YoY)  
-
-- **Vehicle-Type Impact**:  
-  - Cars: **155.8K casualties** (highest risk)  
-  - Vans: **15.9K casualties**  
-  - Bikes: **15.6K casualties**  
-  - Buses & Agricultural vehicles contribute smaller shares.  
-
-- **Road-Type Insights**:  
-  - Single Carriageway: **145K casualties** (highest)  
-  - Dual Carriageway: **32K casualties**  
-  - Roundabouts & others: lower but significant.  
-
-- **Geographic Distribution**:  
-  - Urban areas: **61.95%**  
-  - Rural areas: **38.05%**  
-
-- **Time Factor**:  
-  - Daytime: **73.84% casualties**  
-  - Nighttime: **26.16% casualties**  
-
-- **Hotspot Mapping**:  
-  - Concentrated accidents across **UK regions**, clearly highlighting high-risk zones.  
 
 ---
 
